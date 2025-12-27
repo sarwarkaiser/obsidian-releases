@@ -18864,4 +18864,20 @@
     "description": "Remove broken/empty wikilinks from your vault while keeping valid links intact.",
     "repo": "sarwarkaiser/obsidian-broken-links-cleaner"
   }
+  },
+
+  {
+
+    "id": "smart-file-manager",
+
+    "name": "Smart File Manager",
+
+    "author": "Sarwar Kaiser",
+
+    "description": "Automatically organize your notes by moving them to folders based on customizable frontmatter properties. Supports base folders, subfolders, and flexible property selection.",
+
+    "repo": "sarwarkaiser/smart-file-manager"
+
+  }
+
 ]
